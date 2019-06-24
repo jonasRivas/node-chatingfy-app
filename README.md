@@ -1,8 +1,4 @@
-# Client
-
-This project was generated with [angular-cli](https://github.com/angular/angular-cli) 
-
-## Production environment
+# Production environment
 
 Please go to [Chatingfy-app](https://chatingfy.herokuapp.com/) 
 
